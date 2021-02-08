@@ -477,19 +477,29 @@ textarea {
 }
 
 .skills__css {
-    width: 85%;
+    width: 95%;
 }
 
 .skills__js {
-    width: 50%;
+    width: 80%;
+}
+
+
+.skills__angular {
+    width: 85%;
 }
 
 .skills__ux {
     width: 85%;
 }
 
-.skills__swift {
+.skills__node {
     width: 30%;
+}
+
+
+.skills__mongo {
+    width: 60%;
 }
 
 .skills__container img{
